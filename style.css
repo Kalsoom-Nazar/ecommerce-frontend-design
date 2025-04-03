@@ -1,4 +1,4 @@
-/* General Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -291,9 +291,7 @@ select {
     height: 400px;
 }
 
-
-
-    .image-column {
+   .image-column {
         overflow: hidden; 
     }
     .col-sm-2,Image {
